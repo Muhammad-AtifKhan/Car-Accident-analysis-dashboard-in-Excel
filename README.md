@@ -2,7 +2,7 @@
 
 ## 🔹 Overview
 
-This project presents an interactive dashboard developed using Microsoft Power BI to analyze road accident data. It highlights key insights related to accident severity, casualties, road conditions, and environmental factors.
+This project presents an interactive dashboard developed using Microsoft Excel to analyze road accident data. It highlights key insights related to accident severity, casualties, road conditions, and environmental factors.
 
 ## 🔹 Objectives
 
@@ -14,7 +14,7 @@ This project presents an interactive dashboard developed using Microsoft Power B
 
 ## 🔹 Tools & Technologies
 
-* Power BI
+* MS Excel
 * Data Visualization
 * Data Cleaning & Transformation
 
@@ -34,13 +34,13 @@ This project presents an interactive dashboard developed using Microsoft Power B
 
 ## 🔹 Dashboard Preview
 
-![https://github.com/Muhammad-AtifKhan/Car-Accident-analysis-dashboard-in-Excel/blob/main/Screenshot%202026-05-06%20182441.png](dashboard.png)
+![Dashboard.png](https://github.com/Muhammad-AtifKhan/Car-Accident-analysis-dashboard-in-Excel/blob/main/Screenshot%202026-05-06%20182441.png)
 
 ## 🔹 Files Included
 
 * Road_Accident_Analysis.xlsx
 * Dashboard Screenshot
-* Dataset (if included)
+* Dataset 
 
 ## 🔹 Conclusion
 
