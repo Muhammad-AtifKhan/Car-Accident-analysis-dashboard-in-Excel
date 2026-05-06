@@ -1,4 +1,4 @@
-# 🚗 Road Accident Analysis Dashboard (Power BI)
+# 🚗 Road Accident Analysis Dashboard (Excel)
 
 ## 🔹 Overview
 
