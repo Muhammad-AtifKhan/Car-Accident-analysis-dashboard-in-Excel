@@ -34,7 +34,7 @@ This project presents an interactive dashboard developed using Microsoft Power B
 
 ## 🔹 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![https://github.com/Muhammad-AtifKhan/Car-Accident-analysis-dashboard-in-Excel/blob/main/Screenshot%202026-05-06%20182441.png](dashboard.png)
 
 ## 🔹 Files Included
 
